@@ -4,7 +4,7 @@ def solution(num):
         if answer==500:
             answer= -1
             break
-        if num%2==0:
+        if num%2==0: # num이 짝수일 경우
             num/=2
             answer+=1
         else:
