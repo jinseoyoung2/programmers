@@ -1,4 +1,6 @@
-def solution(numbers):
+# https://programmers.co.kr/learn/courses/30/lessons/86051
+
+def solution1(numbers):
     answer = 0
     for i in range(10):
         if i not in numbers:
@@ -6,6 +8,6 @@ def solution(numbers):
     return answer
 
 
-def solution(numbers):
+def solution2(numbers):
     answer = 45 - sum(numbers)
     return answer
