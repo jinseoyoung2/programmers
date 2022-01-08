@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/12973
+
 def solution(s):
     answer=0
     stack=[]
