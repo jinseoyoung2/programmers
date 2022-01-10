@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/12922?language=java
+
 class Solution {
     public String solution(int n) {
         String answer = "";
