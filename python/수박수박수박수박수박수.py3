@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/12922
+# https://dda0e.tistory.com/45
 
 def solution(n):
     answer = ''
