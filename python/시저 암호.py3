@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/12926
+
 def solution(s, n):
     answer=list(s)
     for i in range(len(answer)):
