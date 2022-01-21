@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/12931
+# https://dda0e.tistory.com/68
 
 def solution(n):
     N=str(n)
