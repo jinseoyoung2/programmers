@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/12930?language=python3
+# https://dda0e.tistory.com/73
 
 def solution(s):
     s = s.split(' ')
