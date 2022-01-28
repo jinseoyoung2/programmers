@@ -1,4 +1,5 @@
 // https://programmers.co.kr/learn/courses/30/lessons/12947
+// https://dda0e.tistory.com/86
 
 class Solution {
     public boolean solution(int x) {
