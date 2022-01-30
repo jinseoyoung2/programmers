@@ -1,3 +1,5 @@
+# https://dda0e.tistory.com/18
+
 def solution(n):
     answer = 0
     A,B=0,1
