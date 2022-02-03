@@ -1,4 +1,5 @@
 # https://programmers.co.kr/learn/courses/30/lessons/87389?language=python3
+# https://dda0e.tistory.com/96
 
 def solution(n):
     for i in range(1,n):
