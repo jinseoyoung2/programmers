@@ -1,3 +1,5 @@
+# https://dda0e.tistory.com/9
+
 def solution(arr):
     answer = []
     for i in range(len(arr)): # arr리스트의 요소 개수 만큼 반복
