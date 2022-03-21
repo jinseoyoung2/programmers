@@ -1,4 +1,4 @@
-// https://programmers.co.kr/learn/courses/30/lessons/12944?language=java
+// https://programmers.co.kr/learn/courses/30/lessons/12944
 
 class Solution {
     public double solution(int[] arr) {
